@@ -6,3 +6,4 @@ pandas
 deepfilternet
 soundfile
 tqdm
+loguru

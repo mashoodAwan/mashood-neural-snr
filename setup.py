@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="mashood-neural-snr",
-    version="0.1.2",
+    version="0.1.3",
     author="Muhammad Mashood Awan",
     author_email="mashoodawan27@gmail.com",  
     description="Blind SNR estimation using DeepFilterNet. Includes bundled model weights.",
@@ -28,6 +28,7 @@ setup(
         "pandas",
         "deepfilternet",
         "soundfile",
-        "tqdm",          
+        "tqdm",
+        "loguru",          
     ],
 )
