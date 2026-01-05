@@ -7,7 +7,6 @@ setup(
     name="mashood-neural-snr",
     version="0.1.4",
     author="Muhammad Mashood Awan",
-    license="MIT",
     author_email="mashoodawan27@gmail.com",
     description="Blind SNR estimation using DeepFilterNet. Includes bundled model weights.",
     long_description=long_description,
